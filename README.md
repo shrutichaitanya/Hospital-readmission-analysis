@@ -64,6 +64,17 @@ The analysis identified meaningful patterns associated with 30-day hospital read
 - The engineered features — age, length of stay, and number of conditions — provided a useful foundation for predicting readmission risk.
 - A logistic regression model was able to distinguish between readmitted and non-readmitted encounters, demonstrating the value of structured clinical and demographic data for early risk identification.
 
+## Recommendations
+
+Based on the analysis, several practical recommendations can be considered to help reduce 30-day hospital readmissions:
+
+- Prioritize patients with higher clinical burden for closer post-discharge follow-up, as individuals with more recorded conditions may be at greater risk of readmission.
+- Strengthen discharge planning for patients with longer hospital stays, since extended admissions may reflect more complex care needs.
+- Use risk-based stratification approaches to identify patients who may benefit from early intervention, care coordination, or follow-up outreach.
+- Incorporate demographic and encounter-level factors into hospital dashboards to support proactive monitoring of readmission trends.
+- Expand predictive modeling with additional clinical, medication, and utilization variables to improve readmission risk prediction accuracy.
+- Use the Tableau dashboard as a decision-support tool for tracking readmission patterns and identifying high-risk groups for targeted quality improvement initiatives.
+
 ## Project Impact
 
 This project shows how healthcare data can be transformed into actionable insights that support:
